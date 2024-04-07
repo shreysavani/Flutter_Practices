@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835360947094",
+    "project_id": "pr-9-ad3bb",
+    "storage_bucket": "pr-9-ad3bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835360947094:android:b44637eeea2650f1c33bb7",
+        "android_client_info": {
+          "package_name": "com.example.practicales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCojPyk7AvHM-TwynNUrA3Y4SoeJdgGg5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
