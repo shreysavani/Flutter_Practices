@@ -1,19 +1,35 @@
-# practicales
+# summerinternship2024_d22it189
+# week 1
+# Day 1-2:
+# • Introduction to Flutter and Dart
+# • Setting up the development environment
+# • Understanding the basics of Dart programming language
+# Day 3-5:
+# • Exploring Flutter’s architecture
+# • Building a simple “Hello World” app
+# • Understanding widgets and the widget tree 
 
-A new Flutter project.
+# week 2
+# Day 1-2:
+# • Dart syntax and data types
+# • Control flow statements (if,else,switch)
+# Day 3-5:
+# • Functions and error handling
+# • Collection (List,Sets,Maps)
 
-## Getting Started
+# week 3
 
-This project is a starting point for a Flutter application.
+# Day 1-2:
+# • Stateless and Stateful widgets
+# • Basic UI components(Text, Image, Icon, Button)
+# Day 3-5:
+# • Layouts in flutter(container,Row, column)
+# • Buildibng simple UI with multiple widgets
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Flutter_Practicles" 
-"# Flutter_Practicles" 
-"# Flutter_Practicles" 
+# week 4
+# Day 1-2:
+# • Provider package learning
+# • Utilizing provider package
+# Day 3-5:
+# • Creating mini project that utilizes all learning outcome.
